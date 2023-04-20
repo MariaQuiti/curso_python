@@ -1,7 +1,7 @@
 print("Hola")
 print("segunda línea")
 
-edad = 26
+edad = 2
 pais = "chile"
 numeroPi = 3.14
 titulada = True
