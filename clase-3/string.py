@@ -7,7 +7,7 @@ print(mensaje1)
 
 mensaje2 = "gato"
 print(mensaje2)
-mensaje2 += " con botas"
+mensaje2 += " con botass"
 print(mensaje2)
 
 print(len(mensaje2))
